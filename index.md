@@ -2,17 +2,10 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>About Flask</title>
+    <title>Flask Tutorial</title>
   </head>
   <body>
-    {% extends "template.html" %}
-    {% block content %}
-    
-    <h1> About Flask </h1>
-    <p> Flask is a micro web framework written in Python.</p>
-    <p> Applications that use the Flask framework include Pinterest,
-      LinkedIn, and the community web page for Flask itself.</p>
-      
-    {% endblock %}
+    <h1> My First Try Using Flask </h1>
+    <p> Flask is Fun </p>
   </body>
 </html>
